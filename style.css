@@ -1,0 +1,75 @@
+.jade{
+  color:black;
+  font-family:serif;
+  text-shadow:6px 3px;
+  font-size:60px;
+  text-align: center;
+}
+.about{
+  text-align:center;
+  font-family:monospace;
+  font-size:50px;
+  background-color:#FBEC5D;
+  color:black;
+ 
+}
+.centerimg{
+  display: flex;
+  justify-content: center;
+}
+body{
+  background-color:#FBEC5D;
+}
+h3{
+  font-family:serif;
+  color:gold;
+  font-style:italic;
+  background-color:black;
+  font-size:27px;
+  padding:7px;
+}
+h2{
+  color:gold;
+  text-transform:uppercase;
+  background-color:black;
+  padding:7px;
+}
+#list{
+  font-family:cursive;
+  font-size:22px;
+}
+a {
+  color: black;
+  font-weight: bold;
+  font-family:cursive;
+}
+.image2{
+  float:right;
+  position:relative;
+  width:150px;
+}
+.image3{
+  float:right;
+  position:relative;
+  width:148px;
+}
+.image4{
+  float:right;
+  position:relative;
+  width:150px;
+}
+p{
+  margin:20px;
+  padding: 6px;
+  font-size:25px;
+}
+#wrapper {
+  padding:6px 6px;
+  max-width:70%;
+  margin: 3px auto;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
